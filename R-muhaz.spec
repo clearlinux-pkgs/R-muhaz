@@ -4,7 +4,7 @@
 #
 Name     : R-muhaz
 Version  : 1.2.6.4
-Release  : 35
+Release  : 36
 URL      : https://cran.r-project.org/src/contrib/muhaz_1.2.6.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/muhaz_1.2.6.4.tar.gz
 Summary  : Hazard Function Estimation in Survival Analysis
